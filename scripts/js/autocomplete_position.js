@@ -1,0 +1,3 @@
+$('#positionSelect').picker({
+    search: true
+});
